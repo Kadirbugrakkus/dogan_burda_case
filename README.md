@@ -43,8 +43,8 @@ Bu projeyi çalıştırmak için aşağıdaki araçlara ihtiyacınız var:
 ### 1️⃣ Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/gorev-yonetim-sistemi.git
-cd gorev-yonetim-sistemi
+git clone https://github.com/Kadirbugrakkus/dogan_burda_case.git
+cd dogan_burda_case
 ```
 
 ### 2️⃣ Bağımlılıkları yükleyin.
